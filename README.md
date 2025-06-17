@@ -26,16 +26,17 @@ The **Airbnb Clone Project** is a real-world, full-stack development challenge f
 
 ## ⚙️ Technology Stack
 
-| Technology                | Purpose                                                                |
-| ------------------------- | ---------------------------------------------------------------------- |
-| **Django**                | Web framework for building robust APIs and admin tools.                |
-| **Django REST Framework** | Handles RESTful API development.                                       |
-| **PostgreSQL**            | Relational database for storing structured data.                       |
-| **GraphQL**               | Flexible query language for retrieving and manipulating data.          |
-| **Celery**                | Executes asynchronous tasks like sending emails or payment processing. |
-| **Redis**                 | Caching and queuing support for Celery.                                |
-| **Docker**                | Containerization for development and deployment.                       |
-| **GitHub Actions**        | Automates testing and deployment with CI/CD pipelines.                 |
+| Technology                                                                 | Purpose                                                                |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [**Django**](https://www.djangoproject.com/)                               | Web framework for building robust APIs and admin tools.                |
+| [**Django REST Framework**](https://www.django-rest-framework.org/)        | Handles RESTful API development.                                       |
+| [**PostgreSQL**](https://www.postgresql.org/)                              | Relational database for storing structured data.                       |
+| [**GraphQL**](https://graphql.org/)                                        | Flexible query language for retrieving and manipulating data.          |
+| [**Celery**](https://docs.celeryq.dev/)                                    | Executes asynchronous tasks like sending emails or payment processing. |
+| [**Redis**](https://redis.io/)                                             | Caching and queuing support for Celery.                                |
+| [**Docker**](https://www.docker.com/)                                      | Containerization for development and deployment.                       |
+| [**GitHub Actions**](https://docs.github.com/en/actions)                  | Automates testing and deployment with CI/CD pipelines.                 |
+
 
 ---
 
