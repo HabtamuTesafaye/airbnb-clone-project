@@ -159,5 +159,3 @@ By completing this project, you will:
 * **GitHub Repo:** [airbnb-clone-project](https://github.com/HabtamuTesafaye/airbnb-clone-project)
 
 ---
-
-Let me know if you'd like this broken into Markdown sections or if you want a version of it prefilled for direct copy-paste into your `README.md`.
